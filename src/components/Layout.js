@@ -8,7 +8,7 @@ export default function Layout() {
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus sint aliquam molestiae nobis vitae deserunt explicabo doloribus ipsa veniam ut.
                 
             </p>
-            <Button type="submit" text={'Click'} variant="primary"/>
+            <Button type="submit" text={'Submit'} variant="primary"/>
         </main>
     )
     
